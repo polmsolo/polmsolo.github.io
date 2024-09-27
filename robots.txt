@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://polmsolo.github.io/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/app/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/assets/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/css/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/data/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/includes/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/item/sitemap.polmsolo.gz
+Sitemap: https://polmsolo.github.io/src/sitemap.polmsolo.gz
